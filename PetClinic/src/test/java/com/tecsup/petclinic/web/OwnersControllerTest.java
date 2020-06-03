@@ -62,7 +62,7 @@ public class OwnersControllerTest {
 	public void testFindOnwersOK() throws Exception {
 
 
-		String OWNERS_FIRSTNAME = "Camilo";
+		String OWNERS_FIRSTNAME = "George";
 	    String  LAST_NAME = "Franklin";
 		String  ADDRESS = "110 W. Liberty St.";
 		String  CITY = "Madison";
